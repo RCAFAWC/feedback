@@ -13,7 +13,7 @@ gemspec
 
 # To use a debugger
 gem 'byebug', group: [:development, :test]
-gem 'better_errors', '~> 2.5', '>= 2.5.1'
+gem 'better_errors', '~> 2.9'
 
 # authorization
 gem 'pundit'
